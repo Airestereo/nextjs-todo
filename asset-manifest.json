@@ -1,22 +1,8 @@
 {
-  "files": {
-    "main.css": "/Airestereo/react-todo-list/static/css/main.0e1ab5d4.chunk.css",
-    "main.js": "/Airestereo/react-todo-list/static/js/main.e97e17ad.chunk.js",
-    "main.js.map": "/Airestereo/react-todo-list/static/js/main.e97e17ad.chunk.js.map",
-    "runtime-main.js": "/Airestereo/react-todo-list/static/js/runtime-main.cedfe3aa.js",
-    "runtime-main.js.map": "/Airestereo/react-todo-list/static/js/runtime-main.cedfe3aa.js.map",
-    "static/js/2.9a8514e4.chunk.js": "/Airestereo/react-todo-list/static/js/2.9a8514e4.chunk.js",
-    "static/js/2.9a8514e4.chunk.js.map": "/Airestereo/react-todo-list/static/js/2.9a8514e4.chunk.js.map",
-    "static/js/3.fce496c0.chunk.js": "/Airestereo/react-todo-list/static/js/3.fce496c0.chunk.js",
-    "static/js/3.fce496c0.chunk.js.map": "/Airestereo/react-todo-list/static/js/3.fce496c0.chunk.js.map",
-    "index.html": "/Airestereo/react-todo-list/index.html",
-    "static/css/main.0e1ab5d4.chunk.css.map": "/Airestereo/react-todo-list/static/css/main.0e1ab5d4.chunk.css.map",
-    "static/js/2.9a8514e4.chunk.js.LICENSE.txt": "/Airestereo/react-todo-list/static/js/2.9a8514e4.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.cedfe3aa.js",
-    "static/js/2.9a8514e4.chunk.js",
-    "static/css/main.0e1ab5d4.chunk.css",
-    "static/js/main.e97e17ad.chunk.js"
-  ]
+  "main.css": "static/css/main.1bfceb88.css",
+  "main.css.map": "static/css/main.1bfceb88.css.map",
+  "main.js": "static/js/main.dd51382b.js",
+  "main.js.map": "static/js/main.dd51382b.js.map",
+  "static/js/0.4ac7678b.chunk.js": "static/js/0.4ac7678b.chunk.js",
+  "static/js/0.4ac7678b.chunk.js.map": "static/js/0.4ac7678b.chunk.js.map"
 }
